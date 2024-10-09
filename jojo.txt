@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html>
+
+<style>
+body{
+     text-align:center;
+background-image: url('LAD.jpeg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+</style>
+
+
+
+
+
+
+<body style="background-color:black;">
+<h1 style="background-color:green;font-family:verdana;color:black;border:3px solid red;text-align:center;font-size:300%;"> CALL OF DUTY </h1>
+
+
+
+<li> CALL OF DUTY </li>
+
+<button onclick="window.location.herf = 'side2.html';"> custom loadouts </button>
+
+
+<button onclick="window.location.herf = 'side2.html';"> Many game modes </button>
+
+<button onclick="window.location.herf = 'side2.html';"> Many unlockable </button>
+
+<button onclick="window.location.herf = 'side2.html';"> buyable operators </button>
+
+
+
+
+
+<h1> . </h1>
